@@ -28,4 +28,4 @@ def isFnction():
     global x
     x = "Awesome"
 isFnction()
-print("Python is ",x)
+print("Python is ",x)   
